@@ -1,2 +1,2 @@
 # try_github
-I'm just try :)
+I'm just trying :)
